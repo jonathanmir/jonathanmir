@@ -2,6 +2,9 @@
 I am a technology passionate developer with great intent of showing my strongest skills to collaborate with any context I am. <br>Having started my professional career with a bacharelor degree in Forest Engineering, today, I dedicate full time to web development and have a consistent basis knowledge, which allows me to perform well in the technologies and frameworks Im insert.<br><br>These are the major skills that I have acquired till now:<br><br>-React and Next.js Responsive and Component-based architecture with <br>-Css frameworks such as TailWind, SASS and PostCSS<br>-Typescript development<br>-Decent knowledge with Relational and non-relational databases (MongoDB, PostgreSQL, SQLite)<br>-Solid Node.js development<br>-API development with ORMs such as TypeORM with Express, and Prisma with Nest<br>-A bit of experience with Python along with Django to build simple and efficient APIs<br>
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jonathanmir&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathanmir/) 
 
@@ -12,8 +15,6 @@ I am a technology passionate developer with great intent of showing my strongest
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanmir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jonathanmir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jonathanmir&icon=0&color=0)](https://visitcount.itsvg.in)
