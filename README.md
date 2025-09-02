@@ -3,7 +3,7 @@ I am a technology passionate developer with great intent of showing my strongest
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathanmir/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanmir/) 
 
 [Portfolio](https://portfolio-jonathanmir.vercel.app) 
 
